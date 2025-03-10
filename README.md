@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduardo Haro
 - 👀 I’m interested in Macroeconomics/Econometrics/Machine Learning
 - 🌱 I’m currently pursuing a Ph.D. in Economics 
-- 📫 How to reach me: @eduardoharopt@gmail.com
+- 📫 How to reach me: eduardoharopt@gmail.com
 - 😄 Pronouns: he/his
 
 <!---
